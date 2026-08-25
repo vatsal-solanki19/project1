@@ -17,6 +17,10 @@ This is a beginner-friendly Python project that collects personal information fr
 * "type()" function
 * "id()" function
 
+
+## Technologies used 
+* python
+
 ## ▶ How to run
 
 1. install python
@@ -27,6 +31,8 @@ This is a beginner-friendly Python project that collects personal information fr
 python main.py
 ```
 
+After collecting the information, the program process the data displays the result. it also shows the data type and ID of the variable
+
 ## 📂 project structure
 
 ```text
@@ -35,6 +41,13 @@ project
 |image.png
 |README.md
 ```
+## objective
+
+The main objective of this project is to understand and practice the fundamentals of pytjon programming through a simple interactive program.
+
+## Conclusion
+
+This project helped me understand basic python concepts like variables,data types,input/output,type casting functions sach as type() and id()
 
 ## AUTHOR
 
