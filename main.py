@@ -8,11 +8,11 @@ number=int(input("Please enter your favourite number: "))
 print("Thank you here is the information we collected:")
 
 
-print(f"Name:{name}(type:{type (name)},memory address:{type(name)})",
-      f"Name:{age}(type:{type (age)},memory address:{type(age)})",
-      f"Name:{highet}(type:{type (highet)},memory address:{type(highet)})"
-      f"Name:{number}(type:{type (number)},memory address:{type(number)})")
+print(f"Name:{name}(type:{type (name)},memory address:{type(name)})")
+print(f"age:{age}(type:{type (age)},memory address:{type(age)})")
+print(f"Height:{highet}(type:{type (highet)},memory address:{type(highet)})")
+print(f"Favorite Number:{number}(type:{type (number)},memory address:{type(number)})")
 
 current_year=2026
 birth_year=current_year-age
-print(f"Your birth year is approximately: ",birth_year)
+print(f"Your birth year is approximately: {birth_year}")
