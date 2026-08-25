@@ -36,7 +36,6 @@ After collecting the information, the program process the data displays the resu
 ## 📂 project structure
 
 ```text
-project
 |main.py
 |image.png
 |README.md
